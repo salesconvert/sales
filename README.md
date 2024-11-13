@@ -11,4 +11,4 @@ Explore our [Sales Convert website](https://www.salesconvert.co/) to learn more 
 - **Cross-Platform Management**: Consistent brand image across all platforms.
 - **In-Depth Analytics**: Track your performance with detailed reports and metrics.
 
-Visit [Sales Convert](https://www.salesconvert.co/) to get started!
+
